@@ -1,0 +1,47 @@
+.general{
+  color: aqua;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30%;
+  text-align: center;
+}
+
+.button{
+  color: black;
+  border: 5px solid black;
+  background-color: 545252;
+  box-shadow: 5px 10px;
+  border-radius: 15%;
+  padding: 15px;
+  font-size: 40px;
+  cursor: pointer;
+}
+
+.input{
+  color: black;
+  border: 5px solid white;
+  border-radius: 15%;
+  width: 100px;
+  height: 30px;
+  padding: 15px;
+  font-size: 40px;
+}
+
+.value{
+  border: 2px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: fit-content;
+  color: black;
+  font-size: 60px;
+  background-color: white;
+}
+
+.whole{
+  position: fixed;
+  width: 100%;
+  height: 6100px;
+  background-image: url(https://www.freepngimg.com/thumb/pineapple/21933-9-cartoon-pineapple-clip-art.png);
+  background-size: 10%;
+}
